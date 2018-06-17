@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoDraw</string>
+    <string name="draw_pane">\"pane\"</string>
+</resources>
